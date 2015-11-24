@@ -1,0 +1,8 @@
+.start 8
+addi $t0, $zero, 1024
+sub $t1, $gp, $gp
+add $t2, $gp, $ra
+add $t3, $gp, $ra
+add $t4, $gp, $ra
+add $t5, $gp, $ra
+add $t6, $gp, $ra
